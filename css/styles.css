@@ -1,0 +1,23 @@
+.general {
+  border: 2px black solid;
+  width: 300px;
+  text-align: center;
+}
+
+.ename {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+.hidden {
+  display: block;
+  border: 3px black solid;
+  background-color: #add8e6;
+  position: fixed;
+  margin-left: 30em;
+}
